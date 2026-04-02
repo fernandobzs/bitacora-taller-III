@@ -1,3 +1,5 @@
+![este es el mecanismo de funcionamiento](./mecanismo.jpeg)
+
 # bitacora-taller-III
 [Bitacora.md](https://github.com/user-attachments/files/26443904/Bitacora.md)
 En la miniserie sobre la Bauhaus, lo que más me impactó fue el choque radical entre dos formas de entender el mundo… la de Walter Gropius y la de Johannes Itten.
